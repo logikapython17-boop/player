@@ -1,0 +1,18 @@
+body{
+  font-family: sans-serif;
+  margin: 0;
+  background-color: #fc0808;
+  
+  
+}
+h1{
+    text-align: center;
+}
+p{
+    font-size: 25px;
+}
+header{
+    border-bottom: 10px solid #050000;
+    border: 2px solid #050000;
+    border-radius: 6px;
+}
